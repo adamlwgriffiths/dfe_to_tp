@@ -57,215 +57,215 @@ command::
 
 barbarian.json::
 
-{
-    "frames": {
-        "attack_sword_0": {
-            "frame": {
-                "h": 51,
-                "w": 46,
-                "x": 199,
-                "y": 0
+    {
+        "frames": {
+            "attack_sword_0": {
+                "frame": {
+                    "h": 51,
+                    "w": 46,
+                    "x": 199,
+                    "y": 0
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 51,
+                    "w": 46
+                },
+                "spriteSourceSize": {
+                    "h": 51,
+                    "w": 46,
+                    "x": 199,
+                    "y": 0
+                },
+                "trimmed": false
             },
-            "rotated": false,
-            "sourceSize": {
-                "h": 51,
-                "w": 46
+            "attack_sword_1": {
+                "frame": {
+                    "h": 48,
+                    "w": 48,
+                    "x": 248,
+                    "y": 0
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 48,
+                    "w": 48
+                },
+                "spriteSourceSize": {
+                    "h": 48,
+                    "w": 48,
+                    "x": 248,
+                    "y": 0
+                },
+                "trimmed": false
             },
-            "spriteSourceSize": {
-                "h": 51,
-                "w": 46,
-                "x": 199,
-                "y": 0
+            "attack_sword_2": {
+                "frame": {
+                    "h": 48,
+                    "w": 28,
+                    "x": 299,
+                    "y": 0
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 48,
+                    "w": 28
+                },
+                "spriteSourceSize": {
+                    "h": 48,
+                    "w": 28,
+                    "x": 299,
+                    "y": 0
+                },
+                "trimmed": false
             },
-            "trimmed": false
+            "attack_sword_3": {
+                "frame": {
+                    "h": 48,
+                    "w": 29,
+                    "x": 330,
+                    "y": 0
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 48,
+                    "w": 29
+                },
+                "spriteSourceSize": {
+                    "h": 48,
+                    "w": 29,
+                    "x": 330,
+                    "y": 0
+                },
+                "trimmed": false
+            },
+            "attack_sword_4": {
+                "frame": {
+                    "h": 48,
+                    "w": 60,
+                    "x": 0,
+                    "y": 69
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 48,
+                    "w": 60
+                },
+                "spriteSourceSize": {
+                    "h": 48,
+                    "w": 60,
+                    "x": 0,
+                    "y": 69
+                },
+                "trimmed": false
+            },
+            "crouch_0": {
+                "frame": {
+                    "h": 48,
+                    "w": 32,
+                    "x": 128,
+                    "y": 0
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 48,
+                    "w": 32
+                },
+                "spriteSourceSize": {
+                    "h": 48,
+                    "w": 32,
+                    "x": 128,
+                    "y": 0
+                },
+                "trimmed": false
+            },
+            "stand_0": {
+                "frame": {
+                    "h": 62,
+                    "w": 32,
+                    "x": 0,
+                    "y": 0
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 62,
+                    "w": 32
+                },
+                "spriteSourceSize": {
+                    "h": 62,
+                    "w": 32,
+                    "x": 0,
+                    "y": 0
+                },
+                "trimmed": false
+            },
+            "walk_0": {
+                "frame": {
+                    "h": 62,
+                    "w": 28,
+                    "x": 35,
+                    "y": 0
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 62,
+                    "w": 28
+                },
+                "spriteSourceSize": {
+                    "h": 62,
+                    "w": 28,
+                    "x": 35,
+                    "y": 0
+                },
+                "trimmed": false
+            },
+            "walk_1": {
+                "frame": {
+                    "h": 62,
+                    "w": 27,
+                    "x": 66,
+                    "y": 0
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 62,
+                    "w": 27
+                },
+                "spriteSourceSize": {
+                    "h": 62,
+                    "w": 27,
+                    "x": 66,
+                    "y": 0
+                },
+                "trimmed": false
+            },
+            "walk_2": {
+                "frame": {
+                    "h": 62,
+                    "w": 27,
+                    "x": 96,
+                    "y": 0
+                },
+                "rotated": false,
+                "sourceSize": {
+                    "h": 62,
+                    "w": 27
+                },
+                "spriteSourceSize": {
+                    "h": 62,
+                    "w": 27,
+                    "x": 96,
+                    "y": 0
+                },
+                "trimmed": false
+            }
         },
-        "attack_sword_1": {
-            "frame": {
-                "h": 48,
-                "w": 48,
-                "x": 248,
-                "y": 0
-            },
-            "rotated": false,
-            "sourceSize": {
-                "h": 48,
-                "w": 48
-            },
-            "spriteSourceSize": {
-                "h": 48,
-                "w": 48,
-                "x": 248,
-                "y": 0
-            },
-            "trimmed": false
-        },
-        "attack_sword_2": {
-            "frame": {
-                "h": 48,
-                "w": 28,
-                "x": 299,
-                "y": 0
-            },
-            "rotated": false,
-            "sourceSize": {
-                "h": 48,
-                "w": 28
-            },
-            "spriteSourceSize": {
-                "h": 48,
-                "w": 28,
-                "x": 299,
-                "y": 0
-            },
-            "trimmed": false
-        },
-        "attack_sword_3": {
-            "frame": {
-                "h": 48,
-                "w": 29,
-                "x": 330,
-                "y": 0
-            },
-            "rotated": false,
-            "sourceSize": {
-                "h": 48,
-                "w": 29
-            },
-            "spriteSourceSize": {
-                "h": 48,
-                "w": 29,
-                "x": 330,
-                "y": 0
-            },
-            "trimmed": false
-        },
-        "attack_sword_4": {
-            "frame": {
-                "h": 48,
-                "w": 60,
-                "x": 0,
-                "y": 69
-            },
-            "rotated": false,
-            "sourceSize": {
-                "h": 48,
-                "w": 60
-            },
-            "spriteSourceSize": {
-                "h": 48,
-                "w": 60,
-                "x": 0,
-                "y": 69
-            },
-            "trimmed": false
-        },
-        "crouch_0": {
-            "frame": {
-                "h": 48,
-                "w": 32,
-                "x": 128,
-                "y": 0
-            },
-            "rotated": false,
-            "sourceSize": {
-                "h": 48,
-                "w": 32
-            },
-            "spriteSourceSize": {
-                "h": 48,
-                "w": 32,
-                "x": 128,
-                "y": 0
-            },
-            "trimmed": false
-        },
-        "stand_0": {
-            "frame": {
-                "h": 62,
-                "w": 32,
-                "x": 0,
-                "y": 0
-            },
-            "rotated": false,
-            "sourceSize": {
-                "h": 62,
-                "w": 32
-            },
-            "spriteSourceSize": {
-                "h": 62,
-                "w": 32,
-                "x": 0,
-                "y": 0
-            },
-            "trimmed": false
-        },
-        "walk_0": {
-            "frame": {
-                "h": 62,
-                "w": 28,
-                "x": 35,
-                "y": 0
-            },
-            "rotated": false,
-            "sourceSize": {
-                "h": 62,
-                "w": 28
-            },
-            "spriteSourceSize": {
-                "h": 62,
-                "w": 28,
-                "x": 35,
-                "y": 0
-            },
-            "trimmed": false
-        },
-        "walk_1": {
-            "frame": {
-                "h": 62,
-                "w": 27,
-                "x": 66,
-                "y": 0
-            },
-            "rotated": false,
-            "sourceSize": {
-                "h": 62,
-                "w": 27
-            },
-            "spriteSourceSize": {
-                "h": 62,
-                "w": 27,
-                "x": 66,
-                "y": 0
-            },
-            "trimmed": false
-        },
-        "walk_2": {
-            "frame": {
-                "h": 62,
-                "w": 27,
-                "x": 96,
-                "y": 0
-            },
-            "rotated": false,
-            "sourceSize": {
-                "h": 62,
-                "w": 27
-            },
-            "spriteSourceSize": {
-                "h": 62,
-                "w": 27,
-                "x": 96,
-                "y": 0
-            },
-            "trimmed": false
+        "meta": {
+            "app": "https://github.com/adamlwgriffiths/dfe_to_tp_pixi",
+            "image": "barbarian.png",
+            "scale": "1"
         }
-    },
-    "meta": {
-        "app": "https://github.com/adamlwgriffiths/dfe_to_tp_pixi",
-        "image": "barbarian.png",
-        "scale": "1"
     }
-}
 
 
 Known issues
