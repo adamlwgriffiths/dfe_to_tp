@@ -1,8 +1,8 @@
-==========================================
-darkFactory Editor to TexturePacker / Pixi
-==========================================
+===================================
+darkFactory Editor to TexturePacker
+===================================
 
-Converts `darkFunction Editor <http://darkfunction.com/editor/>`_ sprite sheet animations format to `TexturePacker <www.codeandweb.com/texturepacker>`_ json format.
+Converts `darkFunction Editor <http://darkfunction.com/editor/>`_ sprite sheet animations format to `TexturePacker <www.codeandweb.com/texturepacker>`_ JSON format.
 
 This format is ready to use in `Pixi <https://github.com/GoodBoyDigital/pixi.js>`_ and `Phaser <http://phaser.io/>`_.
 
