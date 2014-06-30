@@ -1,5 +1,5 @@
 ===================================
-darkFactory Editor to TexturePacker
+darkFunction Editor to TexturePacker
 ===================================
 
 Converts `darkFunction Editor <http://darkfunction.com/editor/>`_ sprite sheet animations format to `TexturePacker <www.codeandweb.com/texturepacker>`_ JSON format.
